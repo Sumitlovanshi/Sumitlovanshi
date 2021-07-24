@@ -28,4 +28,4 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rudramadhaba&" alt="rudramadhaba" /></p>
 
-{"mode":"full","isActive":false}
+<!-- {"mode":"full","isActive":false} -->
