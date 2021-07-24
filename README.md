@@ -12,7 +12,7 @@
 - 📫 How to reach me:
 - <a>[<img src="https://img.icons8.com/fluent/40/000000/gmail-new.png"/>](mailto:sumitlovanshi2112@gmail.com)</a>  <a>[<img src="https://img.icons8.com/color/40/000000/linkedin.png"/>](https://www.linkedin.com/in/sumit-lovanshi-826b851a0/)</a> <a>[<img src="https://img.icons8.com/color/40/000000/twitter--v1.png"/>](https://twitter.com/LovanshiSumit)</a><a>[<img src="https://img.icons8.com/fluent/40/000000/facebook-new.png"/>](https://www.facebook.com/sumit.lovanshi.2112)</a> <a>[<img src="https://img.icons8.com/fluent/40/000000/instagram-new.png"/>](https://www.instagram.com/sumit__lovanshi/)
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sumitlovanshi=Profile%20views&color=0e75b6&style=flat" alt="sumitlovanshi" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=sumitlovanshi&label=Profile%20views&color=0e75b6&style=flat" alt="sumitlovanshi" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sumitlovanshi" alt="sumitlovanshi" /></a> </p>
 
