@@ -2,9 +2,9 @@
 
 
 
-- 🔭 I’m currently working on Frontend development.
+- 🔭 I’m currently working on Backend development.
 - 🌱 I’m currently learning Blockchain and practicing DSA in C++. 
-- 👯 I’m looking to collaborate on frontend projects and hackathons.
+- 👯 I’m looking to collaborate on Web projects and hackathons.
 - 🤔 I’m looking for help with Backend development.
 - 💬 Ask me about programming languages, DSA and Development.
 - 😍 Hobbies:- Listening to music , web series & movies , coding and gaming .
